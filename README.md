@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malindu Heshan</h1>
 <h3 align="center">A Computer Science undergraduate from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React** **React** **React** 
+- 🌱 I’m currently pursuing **HCIA**
 
 - 📫 How to reach me **malinduheshan925@gmail.com**
 
