@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pursuing **HCIA**
 
-- 📫 How to reach me **malinduheshan925@gmail.com**
+- 📫 How to reach me **dmmsheshan@gmail.com**
 
 ## Languages and Tools
 
